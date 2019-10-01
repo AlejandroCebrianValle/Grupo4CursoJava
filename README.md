@@ -1,1 +1,2 @@
-# Grupo4CursoJava
+# Grupo 4 Curso Java
+## Guía de desarrollo
