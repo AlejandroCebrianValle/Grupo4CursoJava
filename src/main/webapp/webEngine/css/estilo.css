@@ -1,0 +1,223 @@
+#capaForm {
+	background-color:#dcdcde;
+	border-style:solid;
+	border-color:green;
+	border-width:3px;
+	border-radius:20px;
+	width:96%;
+	padding:1% 2% 1% 2%;
+	font-size:15px;
+ }
+ 
+ #botonDown {
+ 	background-color:green; 
+  border:none;
+  border-radius: 15px;
+  color:white;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+   -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+ 
+ }
+ 
+ #botonDown:hover {
+ 	background-color: #004f00;
+  	color: white;
+ }
+ 
+ #divHeader { 
+ 	position: relative;
+	background-color:#dcdcde;
+	border-style:solid;
+	border-color:green;
+	border-width:3px;
+	border-radius:20px;
+  	top: 0;
+  	width: 96%;
+  	padding:1% 2% 1% 2%;
+  	font-size:20px;
+}
+
+#divFormulario {
+	position: relative;
+	background-color:#dcdcde;
+	border-style:solid;
+	border-color:green;
+	border-width:3px;
+	border-radius:20px;
+	width:96%;
+	padding:1% 2% 1% 2%;
+	font-size:15px;
+}
+
+h1{
+	display: inline-block;
+	
+}
+
+#titulologo {
+	position: relative;
+	display: inline-block;
+	width: 49%;
+
+} 
+
+#botoncitos {
+	position: relative;
+	display: inline-block;
+	width: 49%;
+
+}
+#subir {
+	background-color:green; 
+  border:none;
+  border-radius: 15px;
+  color:white;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+   -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+	
+}
+
+#subir:hover {
+	 background-color: #004f00;
+  	color: white;
+}
+
+#cerrar {
+	background-color:green; 
+  border:none;
+  border-radius: 15px;
+  color:white;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+	
+}
+
+#cerrar:hover {
+	 background-color: #004f00;
+  	color: white;
+}
+
+#sobrenos {
+	background-color:green; 
+  border:none;
+  border-radius: 15px;
+  color:white;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+	
+}
+
+#sobrenos:hover {
+	 background-color: #004f00;
+  	color: white;
+}
+
+#divBody {
+	position: relative;
+	background-color:#dcdcde;
+	border-style:solid;
+	border-color:green;
+	border-width:3px;
+	border-radius:20px;
+	width:96%;
+	padding:1% 2% 1% 2%;
+	font-size:15px;
+	min-height: 600px;
+} 
+
+#izquierdo {
+	position: relative;
+	display: inline-block;
+	width: 59%;
+
+}
+
+#texto {
+	position: relative;
+	display: inline-block;
+	width: 39%;
+	vertical-align: top;
+	background-color:white;
+	border-radius:20px;
+	padding: 2% 0% 1% 2%;
+	
+}
+
+#resumen {
+	position: relative;
+	display: inline-block;
+	width: 49%;
+	background-color:white;
+	border-radius:20px;
+	vertical-align: top;
+	
+	
+}
+
+#derecho {
+	position: relative;
+	display: inline-block;
+	width: 39%;
+	vertical-align: top;
+	
+}
+
+#divselect {
+	vertical-align: top;
+	
+}
+	
+select {
+	width:100%;
+}		
+
+#boton {
+	text-align:center;
+	
+}
+
+#botonTags{
+	background-color:green; 
+  border:none;
+  border-radius: 15px;
+  color:white;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+   -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+	
+}
+
+#botonTags:hover {
+	 background-color: #004f00;
+  	color: white;
+  	
+}
